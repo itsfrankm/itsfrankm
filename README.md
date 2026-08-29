@@ -11,7 +11,7 @@ desde a parte de Hardware, Software, Front-End, Back-End e Infra.
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="200px" src="./src/frieren.gif">
 
 <h3 align="left">Connect with me!</h3>
 

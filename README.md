@@ -8,7 +8,7 @@
 
 #
 
-Me chamo Franklin Miguel, tenho 21 anos e sou natural de Belo Horizonte, em Minas Gerais. Atualmente curso Ciencias da Computação na Newton Paiva. Adoro coisas relacionadas a tecnologia,
+Me chamo Franklin Miguel, tenho 22 anos e sou natural de Belo Horizonte, em Minas Gerais. Atualmente curso Ciencias da Computação na Newton Paiva. Adoro coisas relacionadas a tecnologia,
 desde a parte de Hardware, Software, Front-End, Back-End e Infra.
  
 #
